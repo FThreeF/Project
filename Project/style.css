@@ -1,0 +1,33 @@
+@import url(common-styles.css);
+
+/* Button */
+@import url(blocks/button.css);
+
+/* Header */
+@import url(blocks/header.css);
+@import url(blocks/header__container.css);
+@import url(blocks/header__button.css);
+
+/* Menu */
+@import url(blocks/menu.css);
+@import url(blocks/menu__item.css);
+
+/* Main */
+@import url(blocks/main.css);
+
+/* Demo */
+@import url(blocks/demo.css);
+@import url(blocks/demo__form-button.css);
+@import url(blocks/demo__title.css);
+@import url(blocks/demo__block.css);
+@import url(blocks/demo__form.css);
+@import url(blocks/demo__input-gmail.css);
+@import url(blocks/demo__container.css);
+
+/* Footer */
+
+
+
+/* Container */
+@import url(blocks/container.css);
+

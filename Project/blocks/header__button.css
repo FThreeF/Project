@@ -1,0 +1,16 @@
+.header__button {
+    width: 165px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
+    border: 2px solid #E63756;
+    border-radius: 8px;
+    color: #E63756;
+}
+
+.header__button:hover {
+    background-color: #E63756;
+    color: white;
+}

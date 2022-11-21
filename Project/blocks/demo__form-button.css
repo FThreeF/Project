@@ -1,0 +1,12 @@
+.demo__form-button {
+    width: 220px;
+    height: 35px;
+    background-color: #E63756;
+    color: white;
+}
+
+.demo__form-button:hover {
+    color: #E63756;
+    background-color: transparent;
+
+}

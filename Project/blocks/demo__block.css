@@ -1,0 +1,7 @@
+.demo__block {
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

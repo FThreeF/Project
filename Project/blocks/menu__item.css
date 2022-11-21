@@ -1,0 +1,7 @@
+.menu__item {
+    padding: 0 15px;
+}
+
+.menu__item:hover {
+    color: red;
+}
